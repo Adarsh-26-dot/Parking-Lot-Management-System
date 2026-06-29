@@ -1,7 +1,13 @@
-### IntelliJ IDEA ###
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Build output
 out/
-!**/src/main/**/out/
-!**/src/test/**/out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
 
 ### Eclipse ###
 .apt_generated
